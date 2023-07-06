@@ -3,3 +3,4 @@
 https://github.com/New-dev0/Telethon/archive/platy.zip
 python-decouple
 python-dotenv
+pip3 uninstall pytgcalls && pip3 install pytgcalls==3.0.0.dev21
